@@ -6,7 +6,7 @@
 <div>
   Next Features
   1. Navigation with Link
-  2. React server components -> “use client 
+  2. React server components -> “use client"
   3. fetch data from server
   4. Params -> [id]
   5. Router
