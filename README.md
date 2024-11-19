@@ -19,3 +19,6 @@
   3. **loading** → 1 level
   4. **not-found** → 1 level
 
+
+## User Link for routing
+<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/1.png" alt="tailwind" height="100"/>
