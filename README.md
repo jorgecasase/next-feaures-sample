@@ -21,4 +21,4 @@
 
 
 ## User Link for routing
-<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/1.png" alt="tailwind" height="250"/>
+<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/1.png" alt="tailwind" height="500"/>
