@@ -20,5 +20,21 @@
   4. **not-found** → 1 level
 
 
-## User Link for routing
+## User Link for routing and Layout with Navigation Bar
 <img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/1.png" alt="tailwind" height="500"/>
+
+## Loading animation while fetching data on webserver
+<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/2.png" alt="tailwind" height="500"/>
+
+## Users grid server loaded and user frontend
+<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/3.png" alt="tailwind" height="500"/>
+
+## Dynamic pages using `{params}`
+<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/4.png" alt="tailwind" height="500"/>
+
+## Not found page
+<div>
+  <img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/5.png" alt="tailwind" height="500"/>
+<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/6.png" alt="tailwind" height="500"/>
+</div>
+
