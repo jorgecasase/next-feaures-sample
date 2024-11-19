@@ -35,6 +35,6 @@
 ## Not found page
 <div>
   <img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/5.png" alt="tailwind" height="500"/>
-<img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/6.png" alt="tailwind" height="500"/>
+  <img src="https://github.com/jorgecasase/next-feaures-sample/blob/main/img/6.png" alt="tailwind" height="500"/>
 </div>
 
