@@ -12,9 +12,9 @@
 4. Params → `[id]`
 5. Router
 6. Session with middleware → `middleware.js`
-
+</div>
 ## Default Pages
-
+<div>
 1. **page** → 1 level
 2. **layout** → all levels
 3. **loading** → 1 level
