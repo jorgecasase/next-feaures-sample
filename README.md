@@ -4,6 +4,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tailwind.png" alt="tailwind" height="100"/>
 </div>
 <div>
+  Next Features
   1. Navigation with Link
   2. React server components -> “use client 
   3. fetch data from server
